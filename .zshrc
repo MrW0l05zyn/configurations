@@ -1,4 +1,5 @@
 # alias
+alias ls='ls -lh'
 alias cat='batcat'
 
 # funciones
