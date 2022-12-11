@@ -1,6 +1,6 @@
 # alias
 alias ls='ls -lh'
-alias cat='batcat'
+alias bat='batcat'
 
 # funciones
 function mkt(){
